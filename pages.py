@@ -1,0 +1,1 @@
+page = ['https://animekaizoku.com/zombie-land-saga-revenge-40174/','https://animekaizoku.com/love-live-superstar-41169/']
